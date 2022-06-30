@@ -39,7 +39,7 @@
   },
   {
     "type": "start_location",
-    "ident": "necropolis_basement",
+    "id": "necropolis_basement",
     "name": "Ruined City …?",
     "terrain": [ "necropolis_b_54" ]
   }
