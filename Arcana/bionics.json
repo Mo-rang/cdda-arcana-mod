@@ -28,7 +28,7 @@
     "fuel_options": [ "arcana_fuel_essence" ],
     "fuel_capacity": 20,
     "fuel_efficiency": 1.0,
-    "time": 1,
+    "time": "1 s",
     "flags": [ "BIONIC_TOGGLED", "BIONIC_POWER_SOURCE", "BIONIC_NPC_USABLE" ],
     "included_bionics": [ "bio_essence_blood_surge_cell", "bio_essence_dull_surge_cell" ]
   },
@@ -40,7 +40,7 @@
     "fuel_options": [ "arcana_fuel_essence_blood" ],
     "fuel_capacity": 60,
     "fuel_efficiency": 1.0,
-    "time": 1,
+    "time": "1 s",
     "flags": [ "BIONIC_TOGGLED", "BIONIC_POWER_SOURCE", "BIONIC_NPC_USABLE" ],
     "included": true
   },
@@ -52,7 +52,7 @@
     "fuel_options": [ "arcana_fuel_essence_dull" ],
     "fuel_capacity": 300,
     "fuel_efficiency": 1.0,
-    "time": 1,
+    "time": "1 s",
     "flags": [ "BIONIC_TOGGLED", "BIONIC_POWER_SOURCE", "BIONIC_NPC_USABLE" ],
     "included": true
   },
@@ -66,7 +66,7 @@
     "flags": [ "BIONIC_TOGGLED" ],
     "act_cost": "1 kJ",
     "react_cost": "1 kJ",
-    "time": 1
+    "time": "1 s"
   },
   {
     "id": "bio_life_sign_suppression",
@@ -78,6 +78,6 @@
     "flags": [ "BIONIC_TOGGLED" ],
     "act_cost": "750 J",
     "react_cost": "750 J",
-    "time": 1
+    "time": "1 s"
   }
 ]
