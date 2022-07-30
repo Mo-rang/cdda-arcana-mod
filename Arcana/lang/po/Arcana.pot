@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: None\n"
-"POT-Creation-Date: 2022-06-30 22:07+0900\n"
-"PO-Revision-Date: 2022-06-30 22:07+0900\n"
+"POT-Creation-Date: 2022-07-30 20:01+0900\n"
+"PO-Revision-Date: 2022-07-30 20:01+0900\n"
 "Last-Translator: None\n"
 "Language-Team: None\n"
 "Language: en\n"
@@ -2843,6 +2843,17 @@ msgstr ""
 msgid "You absorb the energy within the Dragonblood offering."
 msgstr ""
 
+#. ~ Spell name
+#: mods\Arcana\obsolete.json
+msgid "Aftermath: Temporal Aura Blindness (obsolete)"
+msgstr ""
+
+#. ~ Description of spell "Aftermath: Temporal Aura Blindness (obsolete)"
+#. ~ Description of spell "Aftermath: Shadow Blindness"
+#: mods\Arcana\obsolete.json mods\Arcana\spells\spells_aftermath.json
+msgid "This inflicts momentary blindness on targets caught in it."
+msgstr ""
+
 #. ~ Skill name
 #: mods\Arcana\skills.json
 msgid "arcana"
@@ -4672,6 +4683,18 @@ msgstr ""
 
 #. ~ Item name
 #: mods\Arcana\items\armor.json
+msgid "faded halo"
+msgid_plural "faded halos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description of "faded halo"
+#: mods\Arcana\items\armor.json
+msgid "A strange radiance permeating your body, hiding your aura from otherworldly creatures in exchange for being more visible to wildlife and the undead."
+msgstr ""
+
+#. ~ Item name
+#: mods\Arcana\items\armor.json
 msgid "elusive aura"
 msgid_plural "elusive auras"
 msgstr[0] ""
@@ -6307,9 +6330,10 @@ msgstr[1] ""
 
 #. ~ Description of gun "rift focus weapon system"
 #: mods\Arcana\items\ranged.json
-msgid "This is the integral weapon system for the Anomaly Recon Mech, focusing a small-scale hole in reality into a powerful beam.  Potent but useless against robots and some anomalous monsters.  Activating this weapon will let you launch a dazzling ghostly flare, illuminating an area in exchange for draining mana.  This flare will inflict similar forms of supernatural harm on anything caught in its radius."
+msgid "This is the integral weapon system for the Anomaly Recon Mech, focusing a small-scale hole in reality into a powerful beam.  Potent but useless against robots and some anomalous monsters.  Activating this weapon will let you launch a dazzling ghostly flare, illuminating an area in exchange for draining fatigue.  This flare will inflict similar forms of supernatural harm on anything caught in its radius."
 msgstr ""
 
+#. ~ Water talisman and earth talisman.  Each use has power equivalent to 200 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "verdant triffid garland"
@@ -6317,11 +6341,13 @@ msgid_plural "verdant triffid garlands"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Water talisman and earth talisman.  Each use has power equivalent to 200 mana.
 #. ~ Description of "verdant triffid garland"
 #: mods\Arcana\items\tool_armor.json
-msgid "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 25 charges."
+msgid "A wreath of brightly-colored flowers from another world, worn around the neck.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will grant a burst of renewed stamina, recovering pain and speeding up the body's natural healing.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 20 hours to charge."
 msgstr ""
 
+#. ~ Flame talisman and air talisman.  Each use has power equivalent to 280 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "shrouded exotic amulet"
@@ -6329,11 +6355,13 @@ msgid_plural "shrouded exotic amulets"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Flame talisman and air talisman.  Each use has power equivalent to 280 mana.
 #. ~ Description of "shrouded exotic amulet"
 #: mods\Arcana\items\tool_armor.json
-msgid "A makeshift necklace with a single gem, a charm worked from some manner of unnatural material.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will shroud your life force, rendering you undetectable to the undead, in exchange for making mundane wildlife more aggressive towards you.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 25 charges."
+msgid "A makeshift necklace with a single gem, a charm worked from some manner of unnatural material.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will shroud your life force, rendering you undetectable to the undead, in exchange for making mundane wildlife more aggressive towards you.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 28 hours to charge."
 msgstr ""
 
+#. ~ Earth talisman and air talisman.  Each use has power equivalent to 360 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "bolstered iridescent brooch"
@@ -6341,9 +6369,10 @@ msgid_plural "bolstered iridescent broochs"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Earth talisman and air talisman.  Each use has power equivalent to 360 mana.
 #. ~ Description of "bolstered iridescent brooch"
 #: mods\Arcana\items\tool_armor.json
-msgid "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 25 charges."
+msgid "A hand-crafted disc brooch made from a strange, unearthly material vaguely resembling mother-of-pearl  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will double any armor or damage resistance you have.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 36 hours to charge."
 msgstr ""
 
 #. ~ A reusable healing item that's also armored?  Yeah, that's staying valuable for a while.
@@ -6910,6 +6939,7 @@ msgstr[1] ""
 msgid "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography."
 msgstr ""
 
+#. ~ Flame talisman and earth talisman.  Each use has power equivalent to 160 mana.
 #. ~ Item name
 #: mods\Arcana\items\tools.json
 msgid "sanctified bone charm"
@@ -6917,11 +6947,13 @@ msgid_plural "sanctified bone charms"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Flame talisman and earth talisman.  Each use has power equivalent to 160 mana.
 #. ~ Description of "sanctified bone charm"
 #: mods\Arcana\items\tools.json
-msgid "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 25 charges."
+msgid "A small talisman made out of some form of otherworldly bone or ivory, carved with equally unearthly iconography.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will heavily damage and paralyze any creatures within 8 tiles, including allies if you're not careful.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 5 uses, each use takes 16 hours to charge."
 msgstr ""
 
+#. ~ Water talisman and air talisman.  Each use has power equivalent to 320 mana.
 #. ~ Item name
 #: mods\Arcana\items\tools.json
 msgid "quickened stinger flute"
@@ -6929,9 +6961,10 @@ msgid_plural "quickened stinger flutes"
 msgstr[0] ""
 msgstr[1] ""
 
+#. ~ Water talisman and air talisman.  Each use has power equivalent to 320 mana.
 #. ~ Description of "quickened stinger flute"
 #: mods\Arcana\items\tools.json
-msgid "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 25 charges."
+msgid "A polished flute with five finger holes, carved from the stinger of some exotic monstrosity.  Elemental magic has been woven into its structure, converting it into a primitive magic item.  Using it will greatly reduce movecosts and enhance evasion.  Stamina and attack speed are unaffected, however.  It will take a long time to recharge after each use, and activating it also fatigues the user.  It can hold up to 6 uses, each use takes 32 hours to charge."
 msgstr ""
 
 #. ~ Item name
@@ -10614,6 +10647,16 @@ msgstr ""
 #. ~ Description of mutation "Life Sign Suppression"
 #: mods\Arcana\mutations\mutations_other.json
 msgid "Undead are currently unable to detect you, increased aggression from natural wildlife."
+msgstr ""
+
+#. ~ Mutation name
+#: mods\Arcana\mutations\mutations_other.json
+msgid "Transcendant Aura"
+msgstr ""
+
+#. ~ Description of mutation "Transcendant Aura"
+#: mods\Arcana\mutations\mutations_other.json
+msgid "Otherworldly creatures are currently unable to detect you, increased visiblity to all other creatures."
 msgstr ""
 
 #. ~ Mutation name
@@ -21651,12 +21694,12 @@ msgstr ""
 msgid "The living emptiness wavers and crumbles."
 msgstr ""
 
-#. ~ Message after transforming to "t_shrub_rose, t_tree, t_tree_cherry, t_marloss, t_grass_tall, t_grass, t_tree_birch, t_tree_pine, t_underbrush, t_tree_willow, t_tree_young, t_tree_blackjack, t_shrub, t_grass_long"
+#. ~ Message after transforming to "t_tree_willow, t_tree_pine, t_shrub_rose, t_tree_blackjack, t_marloss, t_grass_tall, t_tree_birch, t_tree_cherry, t_shrub, t_tree_young, t_grass, t_tree, t_underbrush, t_grass_long"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "Plant life grows wild over the ground."
 msgstr ""
 
-#. ~ Message after transforming to "t_grass_long, t_grass"
+#. ~ Message after transforming to "t_grass, t_grass_long"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "The ground shifts and crumbles, grass growing from the cracks."
 msgstr ""
@@ -21776,7 +21819,7 @@ msgstr ""
 msgid "Rubble wavers and evaporates to clear a path."
 msgstr ""
 
-#. ~ Message after transforming to "t_drystone_wall, t_sand, t_dirtmound, t_clay, t_drystone_wall_half, t_pit_shallow, t_rock_floor_no_roof, t_dirt, t_railroad_rubble"
+#. ~ Message after transforming to "t_pit_shallow, t_sand, t_rock_floor_no_roof, t_drystone_wall, t_dirtmound, t_clay, t_drystone_wall_half, t_railroad_rubble, t_dirt"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "The ground shifts."
 msgstr ""
@@ -22331,12 +22374,6 @@ msgstr ""
 #. ~ Spell name
 #: mods\Arcana\spells\spells_aftermath.json
 msgid "Aftermath: Shadow Blindness"
-msgstr ""
-
-#. ~ Description of spell "Aftermath: Shadow Blindness"
-#. ~ Description of spell "Aftermath: Temporal Aura Blindness"
-#: mods\Arcana\spells\spells_aftermath.json
-msgid "This inflicts momentary blindness on targets caught in it."
 msgstr ""
 
 #. ~ Spell name
@@ -22913,11 +22950,6 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_aftermath.json
-msgid "Aftermath: Temporal Aura Blindness"
-msgstr ""
-
-#. ~ Spell name
-#: mods\Arcana\spells\spells_aftermath.json
 msgid "Wave of Destruction Pulse"
 msgstr ""
 
@@ -23439,6 +23471,7 @@ msgstr ""
 #. ~ Description of spell "Sanguine Art Fatigue"
 #. ~ Description of spell "Offering Fatigue"
 #. ~ Description of spell "Hauberk Mending Fatigue"
+#. ~ Description of spell "Spark Flame Fatigue"
 #: mods\Arcana\spells\spells_item.json
 msgid "Dirty hack caused by DDA-specific fuckery."
 msgstr ""
@@ -23475,12 +23508,9 @@ msgid "Guard And Guide Fatigue"
 msgstr ""
 
 #. ~ Description of spell "Guard And Guide Fatigue"
-#. ~ Description of spell "Stunning Blast Fatigue"
-#. ~ Description of spell "Hidden Aura Fatigue"
-#. ~ Description of spell "Verdant Boost"
-#. ~ Description of spell "Elusive Enhancement Fatigue"
 #: mods\Arcana\spells\spells_item.json
-msgid "And this makes it cost as much fatigue as it would cost if this were a Magic Sign at SL 5."
+#, c-format
+msgid "And this makes it cost about 20% of its implied energy in fatigue."
 msgstr ""
 
 #. ~ Spell name
@@ -23561,6 +23591,13 @@ msgstr ""
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
 msgid "Stunning Blast Fatigue"
+msgstr ""
+
+#. ~ Description of spell "Stunning Blast Fatigue"
+#. ~ Description of spell "Hidden Aura Fatigue"
+#: mods\Arcana\spells\spells_item.json
+#, c-format
+msgid "And this makes it cost about about 20% of its implied energy in fatigue."
 msgstr ""
 
 #. ~ Spell name
@@ -23823,7 +23860,7 @@ msgstr ""
 
 #. ~ Description of spell "Hammer Greater Secondary Effect 2"
 #: mods\Arcana\spells\spells_item.json
-msgid "Extra damage for every vanilla monster with SUNDEATH/NIGHT_INVISIBILITY, and every summoned monster based off such creatures."
+msgid "Bonus damage for every vanilla monster with SUNDEATH/NIGHT_INVISIBILITY, and every summoned monster based off such creatures."
 msgstr ""
 
 #. ~ Spell name
@@ -23929,7 +23966,7 @@ msgstr ""
 
 #. ~ Description of spell "Sundering Flesh Poison"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds the lower level poison, max duration."
+msgid "This adds the lower level poison."
 msgstr ""
 
 #. ~ Spell name
@@ -23970,6 +24007,16 @@ msgstr ""
 #. ~ Message of spell "Ghostly Flare"
 #: mods\Arcana\spells\spells_item.json
 msgid "An otherworldly plume of blue flame arcs out from an emitter on the mech's shoulder, casting an eerie glow over the area!"
+msgstr ""
+
+#. ~ Spell name
+#: mods\Arcana\spells\spells_item.json
+msgid "Ghostly Flare Fatigue"
+msgstr ""
+
+#. ~ Description of spell "Ghostly Flare Fatigue"
+#: mods\Arcana\spells\spells_item.json
+msgid "Dirty hack for DDA version."
 msgstr ""
 
 #. ~ Spell name
@@ -24069,7 +24116,7 @@ msgstr ""
 
 #. ~ Description of spell "Orb: Revelation"
 #: mods\Arcana\spells\spells_item.json
-msgid "Grants a random duration of the Revelation spell effect."
+msgid "Grants a long duration of the Revelation spell effect."
 msgstr ""
 
 #. ~ Message of spell "Orb: Revelation"
@@ -24305,6 +24352,13 @@ msgstr ""
 msgid "A surge of energy flows through you from the garland!"
 msgstr ""
 
+#. ~ Description of spell "Verdant Boost"
+#. ~ Description of spell "Elusive Enhancement Fatigue"
+#: mods\Arcana\spells\spells_item.json
+#, c-format
+msgid "And this makes it cost 20% of its implied energy in fatigue."
+msgstr ""
+
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
 msgid "Call to Order"
@@ -24447,7 +24501,7 @@ msgstr ""
 
 #. ~ Description of spell "Divine Scroll: Moon Event"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds 100 minutes of darkness."
+msgid "This adds the darkness event."
 msgstr ""
 
 #. ~ Spell name
@@ -24572,7 +24626,7 @@ msgstr ""
 
 #. ~ Description of spell "Divine Scroll: Sun Event"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds 100 minutes of sunlight."
+msgid "This adds the sunlight event."
 msgstr ""
 
 #. ~ Spell name
@@ -24703,6 +24757,11 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
+msgid "Spark Flame Fatigue"
+msgstr ""
+
+#. ~ Spell name
+#: mods\Arcana\spells\spells_item.json
 msgid "Elusive Enhancement"
 msgstr ""
 
@@ -24788,12 +24847,6 @@ msgstr ""
 msgid "A low-level acid spell, with greater focus on ground effect."
 msgstr ""
 
-#. ~ Sound description of spell "Wyrm's Venom"
-#. ~ Sound description of spell "Trap: Wyrmskin Acid"
-#: mods\Arcana\spells\spells_item.json mods\Arcana\spells\spells_trap.json
-msgid "splash"
-msgstr ""
-
 #. ~ Message of spell "Wyrm's Venom"
 #: mods\Arcana\spells\spells_item.json
 msgid "Flowing venom slithers over the surface of your armor, until an acrid spray lashes out and soaks the ground!"
@@ -24806,7 +24859,7 @@ msgstr ""
 
 #. ~ Sound description of spell "Wyrm's Venom Noise"
 #: mods\Arcana\spells\spells_item.json
-msgid "a soft hiss."
+msgid "a sizzling hiss."
 msgstr ""
 
 #. ~ Spell name
@@ -25327,15 +25380,15 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_magic_signs.json
-msgid "Sign: Temporal Aura"
+msgid "Sign: Transcendent Aura"
 msgstr ""
 
-#. ~ Description of spell "Sign: Temporal Aura"
+#. ~ Description of spell "Sign: Transcendent Aura"
 #: mods\Arcana\spells\spells_magic_signs.json
-msgid "Magic Sign\nUsing this spell will strike any nearby enemies (or allies) with a temporal effect.  Rather than dealing damage, it will freeze them in place momentarily, and leave them temporarily blinded."
+msgid "Magic Sign\nUsing this spell will shroud you with a faded halo, which will make you undetectable to otherworldly creatures (Nether creatures, fungus, triffids, etc), in exchange for being easier to spot by any other creatures."
 msgstr ""
 
-#. ~ Message of spell "Sign: Temporal Aura"
+#. ~ Message of spell "Sign: Transcendent Aura"
 #: mods\Arcana\spells\spells_magic_signs.json
 #, c-format
 msgid "\"Guard and guide me, out of the clutches of the wicked…\"  You cast %s!"
@@ -25876,7 +25929,7 @@ msgstr ""
 
 #. ~ Description of spell "Mark: Malevolent Gaze"
 #: mods\Arcana\spells\spells_sanguine_marks.json
-msgid "Sanguine Mark\nUsing this spell will strike targets (potentially including allies) with a powerful temporal effect.  It won't deal any damage, but it will freeze your prey in place momentarily, leaving them slowed for a while afterward."
+msgid "Sanguine Mark\nUsing this spell will strike a single target with a powerful temporal effect.  It won't deal any damage, but it will freeze your prey in place momentarily, leaving them slowed for a while afterward."
 msgstr ""
 
 #. ~ Message of spell "Mark: Malevolent Gaze"
@@ -26255,6 +26308,11 @@ msgstr ""
 #. ~ Description of spell "Trap: Wyrmskin Acid"
 #: mods\Arcana\spells\spells_trap.json
 msgid "A weaker version of Wyrm's Venom."
+msgstr ""
+
+#. ~ Sound description of spell "Trap: Wyrmskin Acid"
+#: mods\Arcana\spells\spells_trap.json
+msgid "splash"
 msgstr ""
 
 #. ~ Message of spell "Trap: Wyrmskin Acid"

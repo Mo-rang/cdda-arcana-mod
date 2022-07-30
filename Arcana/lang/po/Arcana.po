@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: None\n"
-"POT-Creation-Date: 2022-06-30 22:07+0900\n"
-"PO-Revision-Date: 2022-07-08 22:07+0900\n"
+"POT-Creation-Date: 2022-07-30 20:01+0900\n"
+"PO-Revision-Date: 2022-07-30 20:13+0900\n"
 "Last-Translator: \n"
 "Language-Team: None\n"
 "Language: ko\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-Bookmarks: -1,530,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
 #. ~ Name of achievement
@@ -441,7 +441,7 @@ msgstr "신록의 강화"
 #. ~ Description of effect type "Verdant Boost"
 #: mods\Arcana\effects.json
 msgid "Your body's natural stamina and pain recovery is enhanced."
-msgstr "체내 본연의 지구력과 고통 회복 능력이 향상되었습니다. "
+msgstr "체내 본연의 지구력과 고통 회복 능력이 향상되었습니다."
 
 #. ~ Remove message of effect type "Verdant Boost"
 #: mods\Arcana\effects.json
@@ -1012,22 +1012,22 @@ msgstr ""
 #. ~ Description of effect type "Alchemical Ward"
 #: mods\Arcana\effects.json
 msgid "Temporary resistance to the side effects of certain potion effects."
-msgstr ""
+msgstr "특정 물약의 부작용에 대해 일시적인 저항력을 가집니다."
 
 #. ~ Remove message of effect type "Alchemical Ward"
 #: mods\Arcana\effects.json
 msgid "The talisman's effect fades."
-msgstr ""
+msgstr "탈리스만의 효과가 사라집니다."
 
 #. ~ Decay message of effect type "Alchemical Ward"
 #: mods\Arcana\effects.json
 msgid "The water talisman's blessing is waning."
-msgstr ""
+msgstr "물의 탈리스만의 축복이 사그라듭니다."
 
 #. ~ Name of effect type id "talisman_pet_buff"
 #: mods\Arcana\effects.json
 msgid "Warded"
-msgstr ""
+msgstr "보호됨"
 
 #. ~ Name of effect type id "dragonblood_clarity"
 #: mods\Arcana\effects.json
@@ -1037,7 +1037,7 @@ msgstr "망령의 피"
 #. ~ Description of effect type "Revenant Blood"
 #: mods\Arcana\effects.json
 msgid "Immunity to poisons, radiation, and fungus."
-msgstr ""
+msgstr "독, 방사능, 진균에 면역이 됩니다."
 
 #. ~ Remove message of effect type "Revenant Blood"
 #: mods\Arcana\effects.json
@@ -1178,7 +1178,7 @@ msgstr "베일 너머로의 접촉"
 #: mods\Arcana\effects.json
 msgid ""
 "You caught the attention of something that doesn't belong in this world…"
-msgstr "이 곳에 속하지 않은 존재의 시선을 끌었습니다."
+msgstr "이 곳에 속하지 않은 존재의 시선을 끌었습니다…"
 
 #. ~ Apply message of effect type "Glimpse of The Beyond"
 #: mods\Arcana\effects.json
@@ -1808,7 +1808,7 @@ msgstr ""
 #. ~ Recruited guard, generic classless version.  Used by the Wasteland Scavengers option.
 #: mods\Arcana\martialarts.json mods\Arcana\npcs\npcs.json
 msgid "Scavenger"
-msgstr ""
+msgstr "스캐빈저"
 
 #. ~ Description of buff "Shrike's Talons" in martial art "Scavenger"
 #: mods\Arcana\martialarts.json
@@ -2978,7 +2978,7 @@ msgstr ""
 #: mods\Arcana\obsolete.json
 msgid "shimmering candle"
 msgid_plural "shimmering candles"
-msgstr[0] ""
+msgstr[0] "빛나는 양초"
 
 #. ~ Description of "shimmering candle"
 #: mods\Arcana\obsolete.json
@@ -3012,12 +3012,12 @@ msgstr ""
 #. ~ Vitamin name
 #: mods\Arcana\obsolete.json
 msgid "Dragonblood Mutagen"
-msgstr ""
+msgstr "용혈 뮤타젠"
 
 #. ~ Vitamin name
 #: mods\Arcana\obsolete.json
 msgid "Otherworldly Communion"
-msgstr ""
+msgstr "이계의 성찬"
 
 #. ~ Name of effect type id "arcana_mutagen_dragonblood"
 #: mods\Arcana\obsolete.json
@@ -3037,17 +3037,17 @@ msgstr ""
 #. ~ Description of effect type "Dragonblood Metamorphosis, Dragonblood Mutation, Dragonblood Transformation"
 #: mods\Arcana\obsolete.json
 msgid "You consumed Dragonblood mutagen."
-msgstr ""
+msgstr "용혈 뮤타젠을 섭취했습니다."
 
 #. ~ Description of effect type "Dragonblood Metamorphosis, Dragonblood Mutation, Dragonblood Transformation"
 #: mods\Arcana\obsolete.json
 msgid "You consumed a large amount of Dragonblood mutagen."
-msgstr ""
+msgstr "많은 양의 용혈 뮤타젠을 섭취했습니다."
 
 #. ~ Description of effect type "Dragonblood Metamorphosis, Dragonblood Mutation, Dragonblood Transformation"
 #: mods\Arcana\obsolete.json
 msgid "You consumed a life-changing amount of Dragonblood mutagen."
-msgstr ""
+msgstr "인생을 바꿀 정도로 많은 양의 용혈 뮤타젠을 섭취했습니다."
 
 #. ~ Name of effect type id "arcana_mutagen_veil"
 #: mods\Arcana\obsolete.json
@@ -3087,7 +3087,7 @@ msgstr ""
 #: mods\Arcana\obsolete.json
 msgid "ritual offering"
 msgid_plural "ritual offerings"
-msgstr[0] ""
+msgstr[0] "제례의 공물"
 
 #. ~ Description of "ritual offering"
 #: mods\Arcana\obsolete.json
@@ -3106,7 +3106,7 @@ msgstr ""
 #: mods\Arcana\obsolete.json
 msgid "Dragonblood offering"
 msgid_plural "Dragonblood offerings"
-msgstr[0] ""
+msgstr[0] "용혈 공물"
 
 #. ~ Description of "Dragonblood offering"
 #: mods\Arcana\obsolete.json
@@ -3119,6 +3119,17 @@ msgstr ""
 #. ~ "activation_message" action message of item "Dragonblood offering"
 #: mods\Arcana\obsolete.json
 msgid "You absorb the energy within the Dragonblood offering."
+msgstr ""
+
+#. ~ Spell name
+#: mods\Arcana\obsolete.json
+msgid "Aftermath: Temporal Aura Blindness (obsolete)"
+msgstr ""
+
+#. ~ Description of spell "Aftermath: Temporal Aura Blindness (obsolete)"
+#. ~ Description of spell "Aftermath: Shadow Blindness"
+#: mods\Arcana\obsolete.json mods\Arcana\spells\spells_aftermath.json
+msgid "This inflicts momentary blindness on targets caught in it."
 msgstr ""
 
 #. ~ Skill name
@@ -3179,7 +3190,7 @@ msgstr ""
 #. ~ Snippet in category "note"
 #: mods\Arcana\snippets.json
 msgid "\"The portals can be sealed, I'm sure of it!  There has to be a way…\""
-msgstr ""
+msgstr "\"포탈은 봉인될 수 있다고 난 확신해!  분명 방법이 있을 거야…\""
 
 #. ~ Snippet in category "note"
 #: mods\Arcana\snippets.json
@@ -3213,7 +3224,7 @@ msgstr ""
 #. ~ Snippet in category "note"
 #: mods\Arcana\snippets.json
 msgid "\"This is NOT A REAL CHURCH\""
-msgstr ""
+msgstr "\"여긴 '진짜' 교회가 아니다\""
 
 #. ~ Snippet in category "note"
 #: mods\Arcana\snippets.json
@@ -4038,13 +4049,13 @@ msgstr "관성 휩쓸기"
 #: mods\Arcana\techniques.json
 #, c-format
 msgid "You drive your weapon's momentum into a sweeping strike at %s"
-msgstr "당신은 무기의 관성을 이용해 %s(을)를 휩쓸었습니다."
+msgstr "당신은 무기의 관성을 이용해 %s(을)를 휩쓸었습니다"
 
 #. ~ Message of martial technique "Inertial Sweep"
 #: mods\Arcana\techniques.json
 #, c-format
 msgid "<npcname> delivers a sweeping strike to %s"
-msgstr "<npcname> (이)가 %s(을)를 휩쓸었습니다."
+msgstr "<npcname> (이)가 %s(을)를 휩쓸었습니다"
 
 #. ~ Martial technique name
 #: mods\Arcana\techniques.json
@@ -4078,7 +4089,7 @@ msgstr "관성을 이용해 %s에게 무장해제 공격을 날립니다"
 #: mods\Arcana\techniques.json
 #, c-format
 msgid "<npcname> delivers a disarming blow to %s"
-msgstr "\"<npcname>(이)가 %s에게 무장해제 공격을 날립니다"
+msgstr "<npcname>(이)가 %s에게 무장해제 공격을 날립니다"
 
 #. ~ Martial technique name
 #: mods\Arcana\techniques.json
@@ -4089,7 +4100,7 @@ msgstr "잡기 풀기"
 #: mods\Arcana\techniques.json
 #, c-format
 msgid "The %s tries to grab you, but you slip away!"
-msgstr "\"%s(이)가 당신을 붙잡으려 했지만 옆으로 피했습니다!"
+msgstr "%s(이)가 당신을 붙잡으려 했지만 옆으로 피했습니다!"
 
 #. ~ Message of martial technique "Grab Break"
 #: mods\Arcana\techniques.json
@@ -5608,6 +5619,19 @@ msgstr[0] "장막의 오라"
 msgid ""
 "A strange radiance permeating your body, obscuring your life force from the "
 "undead."
+msgstr ""
+
+#. ~ Item name
+#: mods\Arcana\items\armor.json
+msgid "faded halo"
+msgid_plural "faded halos"
+msgstr[0] "흐린 광륜"
+
+#. ~ Description of "faded halo"
+#: mods\Arcana\items\armor.json
+msgid ""
+"A strange radiance permeating your body, hiding your aura from otherworldly "
+"creatures in exchange for being more visible to wildlife and the undead."
 msgstr ""
 
 #. ~ Item name
@@ -7579,16 +7603,18 @@ msgid ""
 "small-scale hole in reality into a powerful beam.  Potent but useless "
 "against robots and some anomalous monsters.  Activating this weapon will let "
 "you launch a dazzling ghostly flare, illuminating an area in exchange for "
-"draining mana.  This flare will inflict similar forms of supernatural harm "
-"on anything caught in its radius."
+"draining fatigue.  This flare will inflict similar forms of supernatural "
+"harm on anything caught in its radius."
 msgstr ""
 
+#. ~ Water talisman and earth talisman.  Each use has power equivalent to 200 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "verdant triffid garland"
 msgid_plural "verdant triffid garlands"
 msgstr[0] "신록의 트리피드 화관"
 
+#. ~ Water talisman and earth talisman.  Each use has power equivalent to 200 mana.
 #. ~ Description of "verdant triffid garland"
 #: mods\Arcana\items\tool_armor.json
 msgid ""
@@ -7597,15 +7623,17 @@ msgid ""
 "a primitive magic item.  Using it will grant a burst of renewed stamina, "
 "recovering pain and speeding up the body's natural healing.  It will take a "
 "long time to recharge after each use, and activating it also fatigues the "
-"user.  It can hold up to 6 uses, each use takes 25 charges."
+"user.  It can hold up to 5 uses, each use takes 20 hours to charge."
 msgstr ""
 
+#. ~ Flame talisman and air talisman.  Each use has power equivalent to 280 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "shrouded exotic amulet"
 msgid_plural "shrouded exotic amulets"
 msgstr[0] "장막의 이국적인 목걸이"
 
+#. ~ Flame talisman and air talisman.  Each use has power equivalent to 280 mana.
 #. ~ Description of "shrouded exotic amulet"
 #: mods\Arcana\items\tool_armor.json
 msgid ""
@@ -7615,15 +7643,17 @@ msgid ""
 "force, rendering you undetectable to the undead, in exchange for making "
 "mundane wildlife more aggressive towards you.  It will take a long time to "
 "recharge after each use, and activating it also fatigues the user.  It can "
-"hold up to 6 uses, each use takes 25 charges."
+"hold up to 5 uses, each use takes 28 hours to charge."
 msgstr ""
 
+#. ~ Earth talisman and air talisman.  Each use has power equivalent to 360 mana.
 #. ~ Item name
 #: mods\Arcana\items\tool_armor.json
 msgid "bolstered iridescent brooch"
 msgid_plural "bolstered iridescent broochs"
 msgstr[0] "강화된 무지개빛 브로치"
 
+#. ~ Earth talisman and air talisman.  Each use has power equivalent to 360 mana.
 #. ~ Description of "bolstered iridescent brooch"
 #: mods\Arcana\items\tool_armor.json
 msgid ""
@@ -7632,7 +7662,7 @@ msgid ""
 "structure, converting it into a primitive magic item.  Using it will double "
 "any armor or damage resistance you have.  It will take a long time to "
 "recharge after each use, and activating it also fatigues the user.  It can "
-"hold up to 6 uses, each use takes 25 charges."
+"hold up to 5 uses, each use takes 36 hours to charge."
 msgstr ""
 
 #. ~ A reusable healing item that's also armored?  Yeah, that's staying valuable for a while.
@@ -7797,7 +7827,7 @@ msgid ""
 "craving for rotting meat and stagnant water…"
 msgstr ""
 "당신이 썩어가는 고기와 고여있는 물에 대한 갈망과 같은 기이한 허기를 느낌에 따"
-"라 보석이 사악한 붉은 빛으로 빛납니다."
+"라 보석이 사악한 붉은 빛으로 빛납니다…"
 
 #. ~ misc properties were mostly made by averaging the values of all possible types of robe usable to make it, but no storage due to nested containers being buggy
 #. ~ Item name
@@ -8313,12 +8343,14 @@ msgid ""
 "with equally unearthly iconography."
 msgstr ""
 
+#. ~ Flame talisman and earth talisman.  Each use has power equivalent to 160 mana.
 #. ~ Item name
 #: mods\Arcana\items\tools.json
 msgid "sanctified bone charm"
 msgid_plural "sanctified bone charms"
 msgstr[0] "축성된 뼈 부적"
 
+#. ~ Flame talisman and earth talisman.  Each use has power equivalent to 160 mana.
 #. ~ Description of "sanctified bone charm"
 #: mods\Arcana\items\tools.json
 msgid ""
@@ -8327,16 +8359,18 @@ msgid ""
 "structure, converting it into a primitive magic item.  Using it will heavily "
 "damage and paralyze any creatures within 8 tiles, including allies if you're "
 "not careful.  It will take a long time to recharge after each use, and "
-"activating it also fatigues the user.  It can hold up to 6 uses, each use "
-"takes 25 charges."
+"activating it also fatigues the user.  It can hold up to 5 uses, each use "
+"takes 16 hours to charge."
 msgstr ""
 
+#. ~ Water talisman and air talisman.  Each use has power equivalent to 320 mana.
 #. ~ Item name
 #: mods\Arcana\items\tools.json
 msgid "quickened stinger flute"
 msgid_plural "quickened stinger flutes"
 msgstr[0] "속도의 스팅어 플루트"
 
+#. ~ Water talisman and air talisman.  Each use has power equivalent to 320 mana.
 #. ~ Description of "quickened stinger flute"
 #: mods\Arcana\items\tools.json
 msgid ""
@@ -8346,7 +8380,7 @@ msgid ""
 "movecosts and enhance evasion.  Stamina and attack speed are unaffected, "
 "however.  It will take a long time to recharge after each use, and "
 "activating it also fatigues the user.  It can hold up to 6 uses, each use "
-"takes 25 charges."
+"takes 32 hours to charge."
 msgstr ""
 
 #. ~ Item name
@@ -11638,13 +11672,13 @@ msgstr "당신의 몸에 미지의 생명력이 흐르는 것이 느껴집니다
 #: mods\Arcana\mutations\mutation_category.json
 msgctxt "memorial_male"
 msgid "Gained power from the Dragonblood Sacrament."
-msgstr "용혈의 세례를 통해 힘을 얻었습니다."
+msgstr "용혈의 성례를 통해 힘을 얻었습니다."
 
 #. ~ Memorial message of mutation class "Acolyte of the Sacrament" for female
 #: mods\Arcana\mutations\mutation_category.json
 msgctxt "memorial_female"
 msgid "Gained power from the Dragonblood Sacrament."
-msgstr "용혈의 세례를 통해 힘을 얻었습니다."
+msgstr "용혈의 성례를 통해 힘을 얻었습니다."
 
 #. ~ Message about the player in an effect
 #: mods\Arcana\mutations\mutation_effect_on_condition.json
@@ -11666,7 +11700,7 @@ msgstr ""
 #. ~ Mutation name
 #: mods\Arcana\mutations\mutations_dragonblood.json
 msgid "Dragonblood"
-msgstr "드래곤블러드"
+msgstr "용혈"
 
 #. ~ Description of mutation "Dragonblood"
 #: mods\Arcana\mutations\mutations_dragonblood.json
@@ -11923,7 +11957,7 @@ msgstr ""
 #: mods\Arcana\mutations\mutations_dragonblood.json
 #, c-format
 msgid "You sink your teeth into %s"
-msgstr "%s에 이빨을 박아넣습니다."
+msgstr "%s에 이빨을 박아넣습니다"
 
 #. ~ Message when NPC with mutation "Pointed Teeth" attacks
 #: mods\Arcana\mutations\mutations_dragonblood.json
@@ -12069,13 +12103,13 @@ msgstr ""
 #: mods\Arcana\mutations\mutations_dragonblood.json
 #, c-format
 msgid "You headbutt %s"
-msgstr "머리로 %s(을)를 들이받습니다."
+msgstr "머리로 %s(을)를 들이받습니다"
 
 #. ~ Message when NPC with mutation "Swept-Back Horns" attacks
 #: mods\Arcana\mutations\mutations_dragonblood.json
 #, c-format
 msgid "%1$s headbutts %2$s"
-msgstr "%1$s(이)가 머리로 %2$s(을)를 들이받습니다."
+msgstr "%1$s(이)가 머리로 %2$s(을)를 들이받습니다"
 
 #. ~ Mutation name
 #: mods\Arcana\mutations\mutations_dragonblood.json
@@ -12711,6 +12745,18 @@ msgstr ""
 msgid ""
 "Undead are currently unable to detect you, increased aggression from natural "
 "wildlife."
+msgstr ""
+
+#. ~ Mutation name
+#: mods\Arcana\mutations\mutations_other.json
+msgid "Transcendant Aura"
+msgstr ""
+
+#. ~ Description of mutation "Transcendant Aura"
+#: mods\Arcana\mutations\mutations_other.json
+msgid ""
+"Otherworldly creatures are currently unable to detect you, increased "
+"visiblity to all other creatures."
 msgstr ""
 
 #. ~ Mutation name
@@ -25637,7 +25683,7 @@ msgid ""
 "from the ruins of the old world.  Something seems off about him, though…"
 msgstr ""
 "구세계의 폐허에서 동떨어져서 조용한 삶을 사는 것에 흥미가 있어보이는 외로운 "
-"생존자입니다.  그러나 무언가 수상해 보입니다..."
+"생존자입니다.  그러나 무언가 수상해 보입니다…"
 
 #. ~ NPC faction name
 #: mods\Arcana\npcs\factions.json
@@ -26300,7 +26346,7 @@ msgstr ""
 #. ~ Dialogue line in mission "Bring Back Relay Beacon"
 #: mods\Arcana\npcs\missiondef.json
 msgid "Odin, guide my hand…"
-msgstr ""
+msgstr "오딘이시여, 우리를 이끌어주소서…"
 
 #. ~ Dialogue line in mission "Find or Make Bone Charm"
 #: mods\Arcana\npcs\missiondef.json
@@ -26577,7 +26623,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Bring back research from the Keepers of The Oath"
-msgstr ""
+msgstr "서약의 수호자들에게서 연구 결과 되찾기"
 
 #. ~ Description of mission "Bring back research from the Keepers of The Oath"
 #: mods\Arcana\npcs\missiondef.json
@@ -26646,7 +26692,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Secure Research From The Renegade Shrikes"
-msgstr ""
+msgstr "때까치 잔당에게서 연구결과 확보하기"
 
 #. ~ Description of mission "Secure Research From The Renegade Shrikes"
 #: mods\Arcana\npcs\missiondef.json
@@ -26710,7 +26756,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Bring Back Relay Beacon"
-msgstr ""
+msgstr "중계 송신기 되찾아오기"
 
 #. ~ Description of mission "Bring Back Relay Beacon"
 #: mods\Arcana\npcs\missiondef.json
@@ -26776,7 +26822,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Retrieve Bane Staff"
-msgstr ""
+msgstr "파멸의 지팡이 회수"
 
 #. ~ Description of mission "Retrieve Bane Staff"
 #: mods\Arcana\npcs\missiondef.json
@@ -26863,14 +26909,14 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Retrieve Demon Claw"
-msgstr ""
+msgstr "악마의 발톱 회수"
 
 #. ~ Description of mission "Retrieve Demon Claw"
 #: mods\Arcana\npcs\missiondef.json
 msgid ""
 "Retrieve the demon claw from the curious structure, and bring it to "
 "Johnathan."
-msgstr ""
+msgstr "기이한 구조물에서 악마의 발톱을 회수하고 조나단에게 가져오세요."
 
 #. ~ Dialogue line in mission "Retrieve Demon Claw"
 #: mods\Arcana\npcs\missiondef.json
@@ -26930,7 +26976,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Cleanse Sanguinist Sect"
-msgstr ""
+msgstr "생귀니스트 종파 정화"
 
 #. ~ Description of mission "Cleanse Sanguinist Sect"
 #: mods\Arcana\npcs\missiondef.json
@@ -26989,7 +27035,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Investigate survivor camp"
-msgstr ""
+msgstr "생존자 캠프 조사"
 
 #. ~ Description of mission "Investigate survivor camp"
 #: mods\Arcana\npcs\missiondef.json
@@ -27041,7 +27087,7 @@ msgstr ""
 #. ~ Mission name
 #: mods\Arcana\npcs\missiondef.json
 msgid "Cleanse The Anomaly"
-msgstr ""
+msgstr "이상현상 정화"
 
 #. ~ Description of mission "Cleanse The Anomaly"
 #: mods\Arcana\npcs\missiondef.json
@@ -27759,7 +27805,7 @@ msgstr "의사"
 #. ~ Recruited merchant, mercenary version.  Used by the Scavenger Merc option.
 #: mods\Arcana\npcs\npcs.json
 msgid "Mercenary Leader"
-msgstr ""
+msgstr "용병 대장"
 
 #. ~ Name suffix of an NPC
 #. ~ Recruited merchant.  Functionally same as classless version, but with a different mission.
@@ -27854,12 +27900,12 @@ msgstr ""
 msgid "The living emptiness wavers and crumbles."
 msgstr ""
 
-#. ~ Message after transforming to "t_shrub_rose, t_tree, t_tree_cherry, t_marloss, t_grass_tall, t_grass, t_tree_birch, t_tree_pine, t_underbrush, t_tree_willow, t_tree_young, t_tree_blackjack, t_shrub, t_grass_long"
+#. ~ Message after transforming to "t_tree_willow, t_tree_pine, t_shrub_rose, t_tree_blackjack, t_marloss, t_grass_tall, t_tree_birch, t_tree_cherry, t_shrub, t_tree_young, t_grass, t_tree, t_underbrush, t_grass_long"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "Plant life grows wild over the ground."
 msgstr ""
 
-#. ~ Message after transforming to "t_grass_long, t_grass"
+#. ~ Message after transforming to "t_grass, t_grass_long"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "The ground shifts and crumbles, grass growing from the cracks."
 msgstr ""
@@ -27983,7 +28029,7 @@ msgstr ""
 msgid "Rubble wavers and evaporates to clear a path."
 msgstr ""
 
-#. ~ Message after transforming to "t_drystone_wall, t_sand, t_dirtmound, t_clay, t_drystone_wall_half, t_pit_shallow, t_rock_floor_no_roof, t_dirt, t_railroad_rubble"
+#. ~ Message after transforming to "t_pit_shallow, t_sand, t_rock_floor_no_roof, t_drystone_wall, t_dirtmound, t_clay, t_drystone_wall_half, t_railroad_rubble, t_dirt"
 #: mods\Arcana\overmap_and_mapgen\mapgen_update.json
 msgid "The ground shifts."
 msgstr ""
@@ -28554,12 +28600,6 @@ msgstr ""
 #. ~ Spell name
 #: mods\Arcana\spells\spells_aftermath.json
 msgid "Aftermath: Shadow Blindness"
-msgstr ""
-
-#. ~ Description of spell "Aftermath: Shadow Blindness"
-#. ~ Description of spell "Aftermath: Temporal Aura Blindness"
-#: mods\Arcana\spells\spells_aftermath.json
-msgid "This inflicts momentary blindness on targets caught in it."
 msgstr ""
 
 #. ~ Spell name
@@ -29152,11 +29192,6 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_aftermath.json
-msgid "Aftermath: Temporal Aura Blindness"
-msgstr ""
-
-#. ~ Spell name
-#: mods\Arcana\spells\spells_aftermath.json
 msgid "Wave of Destruction Pulse"
 msgstr ""
 
@@ -29220,7 +29255,7 @@ msgstr ""
 #. ~ Message of spell "Blessing: Agility"
 #: mods\Arcana\spells\spells_arcane_blessings.json
 msgid "Time seems to slow for a moment, as you channel a rush of energy."
-msgstr "마나를 내보내자 잠시동안 시간이 느려진 것처럼 느껴집니다"
+msgstr "마나를 내보내자 잠시동안 시간이 느려진 것처럼 느껴집니다."
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_arcane_blessings.json
@@ -29931,6 +29966,7 @@ msgstr ""
 #. ~ Description of spell "Sanguine Art Fatigue"
 #. ~ Description of spell "Offering Fatigue"
 #. ~ Description of spell "Hauberk Mending Fatigue"
+#. ~ Description of spell "Spark Flame Fatigue"
 #: mods\Arcana\spells\spells_item.json
 msgid "Dirty hack caused by DDA-specific fuckery."
 msgstr ""
@@ -29969,14 +30005,9 @@ msgid "Guard And Guide Fatigue"
 msgstr ""
 
 #. ~ Description of spell "Guard And Guide Fatigue"
-#. ~ Description of spell "Stunning Blast Fatigue"
-#. ~ Description of spell "Hidden Aura Fatigue"
-#. ~ Description of spell "Verdant Boost"
-#. ~ Description of spell "Elusive Enhancement Fatigue"
 #: mods\Arcana\spells\spells_item.json
-msgid ""
-"And this makes it cost as much fatigue as it would cost if this were a Magic "
-"Sign at SL 5."
+#, c-format
+msgid "And this makes it cost about 20% of its implied energy in fatigue."
 msgstr ""
 
 #. ~ Spell name
@@ -30066,6 +30097,14 @@ msgstr ""
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
 msgid "Stunning Blast Fatigue"
+msgstr ""
+
+#. ~ Description of spell "Stunning Blast Fatigue"
+#. ~ Description of spell "Hidden Aura Fatigue"
+#: mods\Arcana\spells\spells_item.json
+#, c-format
+msgid ""
+"And this makes it cost about about 20% of its implied energy in fatigue."
 msgstr ""
 
 #. ~ Spell name
@@ -30363,7 +30402,7 @@ msgstr ""
 #. ~ Description of spell "Hammer Greater Secondary Effect 2"
 #: mods\Arcana\spells\spells_item.json
 msgid ""
-"Extra damage for every vanilla monster with SUNDEATH/NIGHT_INVISIBILITY, and "
+"Bonus damage for every vanilla monster with SUNDEATH/NIGHT_INVISIBILITY, and "
 "every summoned monster based off such creatures."
 msgstr ""
 
@@ -30476,7 +30515,7 @@ msgstr ""
 
 #. ~ Description of spell "Sundering Flesh Poison"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds the lower level poison, max duration."
+msgid "This adds the lower level poison."
 msgstr ""
 
 #. ~ Spell name
@@ -30521,6 +30560,16 @@ msgstr ""
 msgid ""
 "An otherworldly plume of blue flame arcs out from an emitter on the mech's "
 "shoulder, casting an eerie glow over the area!"
+msgstr ""
+
+#. ~ Spell name
+#: mods\Arcana\spells\spells_item.json
+msgid "Ghostly Flare Fatigue"
+msgstr ""
+
+#. ~ Description of spell "Ghostly Flare Fatigue"
+#: mods\Arcana\spells\spells_item.json
+msgid "Dirty hack for DDA version."
 msgstr ""
 
 #. ~ Spell name
@@ -30626,7 +30675,7 @@ msgstr ""
 
 #. ~ Description of spell "Orb: Revelation"
 #: mods\Arcana\spells\spells_item.json
-msgid "Grants a random duration of the Revelation spell effect."
+msgid "Grants a long duration of the Revelation spell effect."
 msgstr ""
 
 #. ~ Message of spell "Orb: Revelation"
@@ -30876,6 +30925,13 @@ msgstr ""
 msgid "A surge of energy flows through you from the garland!"
 msgstr ""
 
+#. ~ Description of spell "Verdant Boost"
+#. ~ Description of spell "Elusive Enhancement Fatigue"
+#: mods\Arcana\spells\spells_item.json
+#, c-format
+msgid "And this makes it cost 20% of its implied energy in fatigue."
+msgstr ""
+
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
 msgid "Call to Order"
@@ -31034,7 +31090,7 @@ msgstr ""
 
 #. ~ Description of spell "Divine Scroll: Moon Event"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds 100 minutes of darkness."
+msgid "This adds the darkness event."
 msgstr ""
 
 #. ~ Spell name
@@ -31176,7 +31232,7 @@ msgstr ""
 
 #. ~ Description of spell "Divine Scroll: Sun Event"
 #: mods\Arcana\spells\spells_item.json
-msgid "This adds 100 minutes of sunlight."
+msgid "This adds the sunlight event."
 msgstr ""
 
 #. ~ Spell name
@@ -31315,6 +31371,11 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_item.json
+msgid "Spark Flame Fatigue"
+msgstr ""
+
+#. ~ Spell name
+#: mods\Arcana\spells\spells_item.json
 msgid "Elusive Enhancement"
 msgstr ""
 
@@ -31406,12 +31467,6 @@ msgstr ""
 msgid "A low-level acid spell, with greater focus on ground effect."
 msgstr ""
 
-#. ~ Sound description of spell "Wyrm's Venom"
-#. ~ Sound description of spell "Trap: Wyrmskin Acid"
-#: mods\Arcana\spells\spells_item.json mods\Arcana\spells\spells_trap.json
-msgid "splash"
-msgstr ""
-
 #. ~ Message of spell "Wyrm's Venom"
 #: mods\Arcana\spells\spells_item.json
 msgid ""
@@ -31426,8 +31481,8 @@ msgstr ""
 
 #. ~ Sound description of spell "Wyrm's Venom Noise"
 #: mods\Arcana\spells\spells_item.json
-msgid "a soft hiss."
-msgstr ""
+msgid "a sizzling hiss."
+msgstr "치직치직"
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_magic_signs.json
@@ -32082,19 +32137,19 @@ msgstr ""
 
 #. ~ Spell name
 #: mods\Arcana\spells\spells_magic_signs.json
-msgid "Sign: Temporal Aura"
-msgstr "표식: 시간의 오라"
+msgid "Sign: Transcendent Aura"
+msgstr "표식: 초월의 오라"
 
-#. ~ Description of spell "Sign: Temporal Aura"
+#. ~ Description of spell "Sign: Transcendent Aura"
 #: mods\Arcana\spells\spells_magic_signs.json
 msgid ""
 "Magic Sign\n"
-"Using this spell will strike any nearby enemies (or allies) with a temporal "
-"effect.  Rather than dealing damage, it will freeze them in place "
-"momentarily, and leave them temporarily blinded."
+"Using this spell will shroud you with a faded halo, which will make you "
+"undetectable to otherworldly creatures (Nether creatures, fungus, triffids, "
+"etc), in exchange for being easier to spot by any other creatures."
 msgstr ""
 
-#. ~ Message of spell "Sign: Temporal Aura"
+#. ~ Message of spell "Sign: Transcendent Aura"
 #: mods\Arcana\spells\spells_magic_signs.json
 #, c-format
 msgid ""
@@ -32707,9 +32762,9 @@ msgstr "인장: 사악한 응시"
 #: mods\Arcana\spells\spells_sanguine_marks.json
 msgid ""
 "Sanguine Mark\n"
-"Using this spell will strike targets (potentially including allies) with a "
-"powerful temporal effect.  It won't deal any damage, but it will freeze your "
-"prey in place momentarily, leaving them slowed for a while afterward."
+"Using this spell will strike a single target with a powerful temporal "
+"effect.  It won't deal any damage, but it will freeze your prey in place "
+"momentarily, leaving them slowed for a while afterward."
 msgstr ""
 
 #. ~ Message of spell "Mark: Malevolent Gaze"
@@ -33165,6 +33220,11 @@ msgstr ""
 #. ~ Description of spell "Trap: Wyrmskin Acid"
 #: mods\Arcana\spells\spells_trap.json
 msgid "A weaker version of Wyrm's Venom."
+msgstr ""
+
+#. ~ Sound description of spell "Trap: Wyrmskin Acid"
+#: mods\Arcana\spells\spells_trap.json
+msgid "splash"
 msgstr ""
 
 #. ~ Message of spell "Trap: Wyrmskin Acid"
